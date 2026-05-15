@@ -1,0 +1,36 @@
+DECISION: Major Revision
+FROM: Prof. Chris Forman, Department Editor, Management Science
+
+Dear Authors,
+The reports are outstanding and the AE report does an excellent job of summarizing the issues. I had similar questions as those raised by R1 and R2 about the source of variation that identifies the diff-in-diff.
+
+-----------Associate Editor's text comments (if any)
+Associate Editor
+Comments to Author:
+I highlight below the important elements that need to be covered in the next revision of the paper:
+1 - Institutional and Natural Experiment Details
+R2 highlights a number of questions and clarifications on the institutional details and the nature of the experiment.
+
+2 - Estimation Approach
+R1 and R2 raise several good points about the estimation approach used with the paper. I recommend that you start your analysis section with a discussion about feasible approaches and justify your choices.
+
+3- Mechanism
+All three referees are concerned about the mechanism you are advancing in the paper. I would encourage you to think deeply about the suggestions.
+
+-----------Reviewers' text comments (if any)
+Reviewer: 1
+Comments to the Author
+1.
+Diff-in-diff versus cross-sectional regressions. The paper eventually addresses this issue amidst other robustness checks. I do feel that this point should at least be flagged much earlier.
+
+2.
+IV-regression? The regressions of contributions on a treatment dummy can be conceived as the reduced-form of an IV-regression that puts the results in more meaningful units.
+
+Reviewer: 3
+Comments to the Author
+Major concerns:
+1.
+The mechanism is not so convincing at the moment. To directly test ownership, I think the author needs variation on each contributor's sense of ownership.
+
+2.
+Relatedly, in the control group, we need to have a better understanding of how contribution dynamics unfold.
