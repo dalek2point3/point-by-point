@@ -36,24 +36,9 @@ Optional local convenience: create a `key.txt` file in the repo root and the loc
 - Do not commit API keys, manuscript PDFs, referee letters, or local project data.
 - `.gitignore` excludes `key.txt`, `.data/`, common document formats, and PDFs.
 - In local mode, uploaded files and responses stay on your machine, except text sent to the AI provider you choose using your own key.
-- Back up important responses manually. This is an early prototype.
-
-## Upload Sizes
-
-Local mode defaults to a 25 MB upload limit. Keep uploads small while this is an early prototype.
-
-Set a custom limit:
-
-```text
-NEXT_PUBLIC_MAX_UPLOAD_MB=25
-```
 
 ## Reset Local Data
 
 ```bash
 rm -rf .data
 ```
-
-## GitHub Safety
-
-This repository is intended for local use. Do not commit personal manuscript files, API keys, or generated `.data` projects.
